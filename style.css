@@ -1,0 +1,11 @@
+td {
+    width: 100px;
+    height: 25px;
+  }
+  table{
+    border-collapse: collapse;
+  }
+
+.thd {
+    height: 40px;
+}
